@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Minha Página</title>
+    <link rel="stylesheet" th:href="@{/bootstrap/css/bootstrap.min.css}">
 </head>
 <body>
 
@@ -20,6 +21,22 @@
     <div>
         <p>Você não é um administrador.</p>
     </div>
+
+    <div class="container justify-content-center">
+        <div class="justify-content-center">
+            <div class="bg-secondary opacity-20 p-4 rounded-top">
+                <h1 class="text-center">Vagas
+                </h1>
+            </div>
+            <div>
+                    <td><a th:href="@{/vaga/listaVaga}" class="btn btn-primary">Listar Vagas</a></td>
+                    <td><a th:href="@{/cadastrarVaga}" class="btn btn-success">Cadastrar Vagas</a></td>
+                </tr>
+            </div>
+        </div>
+    </div>
+    
+    
 
 </body>
 </html>

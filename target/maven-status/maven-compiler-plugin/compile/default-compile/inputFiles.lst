@@ -2,4 +2,5 @@
 /home/sti/Sam/appRH/src/main/java/com/appRH/controllers/HomeController.java
 /home/sti/Sam/appRH/src/main/java/com/appRH/models/Candidato.java
 /home/sti/Sam/appRH/src/main/java/com/appRH/models/Vaga.java
+/home/sti/Sam/appRH/src/main/java/com/appRH/controllers/VagaController.java
 /home/sti/Sam/appRH/src/main/java/com/appRH/DataConfiguration.java

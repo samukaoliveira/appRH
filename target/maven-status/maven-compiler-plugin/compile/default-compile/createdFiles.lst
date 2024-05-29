@@ -1,5 +1,4 @@
 com/appRH/models/Vaga.class
-main/java/com/appRH/DataConfiguration.class
 com/appRH/controllers/HomeController.class
 com/appRH/models/Candidato.class
 com/appRH/AppRhApplication.class
